@@ -11,7 +11,7 @@ The code will look like the following:
      ELSE PREVIOUS_VALUE(0) * [Select Country B Forecast] + PREVIOUS_VALUE(0)
      END
      
- ### Software requirements:
+### Software requirements:
 
 * Chapter 2, All about Data - Getting Your Data Ready, makes light use of Adobe Acrobat.
 Access to SQL Server is helpful in a few places, especially in Chapter 4, All about Data - Data Densification, Cubes, and Big Data.
